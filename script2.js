@@ -486,6 +486,21 @@ function reiniciaVariableexternas (){
             case 'treinta y cuatro ':
                 numeroLetra = 34;
             break;
+            case 'treinta y cinco ':
+                numeroLetra = 35;
+            break;
+            case 'treinta y seis ':
+                numeroLetra = 36;
+            break;
+            case 'treinta y siete ':
+                numeroLetra = 37;
+            break;
+            case 'treinta y ocho ':
+                numeroLetra = 38;
+            break;
+            case 'treinta y nueve ':
+                numeroLetra = 39;
+            break;
             case 'treinta ':
                 numeroLetra = 30;
             break;
